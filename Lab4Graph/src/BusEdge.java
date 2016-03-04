@@ -4,6 +4,8 @@
 */
 //HEJ HEJ HEJ HEJ HEJ!!!
 
+	//HEJ IGEN DIN TOK TOK
+
 public class BusEdge extends Edge {
 	
 	/**
