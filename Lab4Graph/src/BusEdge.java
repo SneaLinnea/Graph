@@ -2,6 +2,8 @@
 /**
 * Extends an Edge with a weight and a name for the bus line.
 */
+//HEJ HEJ HEJ HEJ HEJ!!!
+
 public class BusEdge extends Edge {
 	
 	/**
